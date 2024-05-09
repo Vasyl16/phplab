@@ -1,0 +1,30 @@
+.second_form{
+  width: 700px;
+height: 100vh;
+margin: 0px auto;
+background-color: aqua;
+border: 10px solid  yellowgreen;
+padding: 15px;
+}
+.submit{
+  width:100%;
+  height: 25px;
+margin: 10px 0px;
+font-size: 18px;
+}
+.reset{
+  width:100%;
+  height: 25px;
+  margin: 10px 0px;
+  font-size: 18px;
+}
+.submit:hover{
+  background-color:green;
+  border-radius:5px;
+  color:white;
+}
+.reset:hover {
+  background-color: red;
+  border-radius: 5px;
+  color: white;
+}

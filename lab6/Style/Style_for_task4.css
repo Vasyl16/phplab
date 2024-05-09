@@ -1,0 +1,14 @@
+.block{
+  margin: 0 auto;
+  width: 800px;
+  height: 100vh;
+  background-color:burlywood;
+border:30px solid green;
+border-radius:30px;
+}
+p{
+  color: white;
+  font-size: 18px;
+  margin: 10px;
+  text-align: center;
+}

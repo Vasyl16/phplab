@@ -1,0 +1,9 @@
+.block{
+  margin: 0 auto;
+  width: 700px;
+  height: 100vh;
+  background-color: aquamarine;
+  border: 10px solid blue;
+  border-radius: 3%;
+  padding: 50px;
+}

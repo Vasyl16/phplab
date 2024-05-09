@@ -1,0 +1,33 @@
+.container{
+  width: 800px;
+  height: 100vh;
+  margin: 0px auto;
+  border:10px solid aqua;
+}
+h2{
+  text-align: center;
+}
+.nav{
+  padding: 15px;
+}
+.nav li{
+  list-style: none;
+  border:1px solid green;
+  margin-bottom: 5px;
+  background-color:aqua;
+  padding: 5px;
+}
+.nav a{
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  
+}
+.nav li:hover{
+  border-radius: 10px;
+  border-left: 10px solid red;
+
+}
+.nav a:hover{
+font-size: 18px;
+}

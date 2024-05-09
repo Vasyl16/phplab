@@ -1,0 +1,24 @@
+.blockMain{
+  margin: 0 auto;
+  width: 700px;
+  height: 100vh;
+  background-color: aqua;
+}
+input{
+  width: 98%;
+  margin-top: 8px;
+  height: 30px;
+  border-radius: 10px;
+}
+label{
+  margin: 10px 10px;
+  font-size: 20px;
+}
+.submit{
+  background-color:greenyellow;
+  font-size: 20px;
+  color: white;
+}
+.submit:hover{
+  background-color:purple;
+}

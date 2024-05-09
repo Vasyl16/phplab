@@ -1,0 +1,40 @@
+.block {
+  margin: 0 auto;
+  background-color: brown;
+  width: 800px;
+  height: 100vh;
+  border: 15px solid greenyellow;
+  border-radius: 15px;
+}
+
+input {
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+label {
+  color: white;
+  font-size: 18px;
+}
+
+.submit {
+  width: 97%;
+  background-color: greenyellow;
+  height: 30px;
+
+}
+
+.submit:hover {
+  color: white;
+  height: 35px;
+  font-size: 20px;
+  border-radius: 30px;
+}
+
+p {
+  color: white;
+  font-size: 18px;
+}
+.entering{
+  width: 97%;
+}
